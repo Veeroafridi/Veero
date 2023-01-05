@@ -398,13 +398,13 @@ Y8    8P 88ooooo 88ooooo 88oobY' 88    88
    
 __________________Technical Veero______________________
   
-   Github   :  Veero
+Github   :  Veero
 
 Facebook : Technical Veero
   
-       Tiktok : Technical_Veero
+  Tiktok : Technical_Veero
   
-__________________Technical Veero______________________\033[1;37m""")
+__________________Technical Veero______________________
 
 class Main:
 	def __init__(self):
